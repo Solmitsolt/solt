@@ -1,0 +1,1 @@
+Solmit platform currency:SOLT
